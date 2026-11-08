@@ -8,3 +8,5 @@
 @media(max-width:720px){.footer-inner{padding:35px 20px 22px}.footer-main{grid-template-columns:1fr 1fr;gap:32px 22px}.footer-intro{grid-column:1/-1;grid-row:auto}.footer-column:last-child{grid-column:1/-1}.wechat-card{max-width:390px}.site-footer .copyright{flex-direction:column;gap:8px;margin-top:30px}.site-footer .footer-brand span{font-size:13px}.footer-column{gap:15px}}
 
 .site-footer .copyright{padding-right:48px}
+
+.brand .brand-logo{display:block;width:46px;height:46px;flex-shrink:0;object-fit:contain;border-radius:5px}
