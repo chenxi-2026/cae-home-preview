@@ -10,3 +10,6 @@
 .site-footer .copyright{padding-right:48px}
 
 .brand .brand-logo{display:block;width:46px;height:46px;flex-shrink:0;object-fit:contain;border-radius:5px}
+
+.site-footer .visitor-stats{color:#c6b9ad;white-space:nowrap}
+@media(max-width:720px){.site-footer .visitor-stats{white-space:normal}}
